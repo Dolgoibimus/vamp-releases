@@ -8,14 +8,6 @@ All apps are published here — download APKs from the [Releases](https://github
 | App | Description | Описание |
 |-----|-------------|----------|
 | **Haron** | File manager | Проводник |
-| **Beresta** | Messenger | Мессенджер |
-| **Morok** | Security & antivirus | Безопасность |
-| **Hora** | Clock & alarms | Часы |
-| **Iris** | Camera | Камера |
-| **Hermes** | Search | Поиск |
-| **Divo** | Wallpapers | Обои |
-| **GdeDeti** | Parental control | Контроль детей |
-| **Mara** | Medical catalog | Медикаталог |
 
 ## Links
 
